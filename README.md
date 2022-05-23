@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-1. Complete RoR Developer
+1. First test repository in Complete RoR Developer by Mashrur Hossain
